@@ -1,4 +1,2 @@
-# rndproj-mvcmkp0p
-
-Random php project for demo.
-
+# rndproj-mvcmkp0p\n\nSmall log summarizer tool.\n
+New-FileDef
