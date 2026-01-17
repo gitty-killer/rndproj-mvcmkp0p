@@ -1,0 +1,6 @@
+{
+  ""name"": ""rndproj-mvcmkp0p"",
+  ""goal"": ""metrics summarizer for feature flags"",
+  ""language"": ""rust"",
+  ""template"": ""rust-lib""
+}
